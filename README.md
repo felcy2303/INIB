@@ -22,15 +22,6 @@ A Full Stack To-Do List application built using the MERN Stack.
 - Responsive User Interface
 - MongoDB Database Integration
 
-## Folder Structure
-
-todo-list-app/
-│
-├── client/
-├── server/
-├── README.md
-└── .gitignore
-
 ## Installation
 
 ### Backend
